@@ -41,7 +41,7 @@ div{
   font-weight: bold
 }
 
-p{
+div p{
   border:inherit;
   margin:inherit;
   color:crimson;
