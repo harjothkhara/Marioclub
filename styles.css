@@ -19,7 +19,7 @@ p.success.feedback{
 } */
 
 /* any anchor tag with a href that includes "thenetninja" */
-a[href*="thenetninja"]{
+/* a[href*="thenetninja"]{
   background-color:rgb(67, 192, 67);
   color:white;
   text-decoration: none;
@@ -28,8 +28,25 @@ a[href*="thenetninja"]{
 }
 
 /* any anchor tag with a href that ends in ".com" style this way */
-a[href$=".com"]{
+/* a[href$=".com"]{
   color:white;
   background-color:red;
   border: 2px solid blue;
+} */
+
+div{
+  color: lightcoral;
+  border: 1px solid grey;
+  margin: 40px;
+  font-weight: bold
+}
+
+p{
+  border:inherit;
+  margin:inherit;
+  color:crimson;
+}
+
+p{
+  color:orange;
 }
