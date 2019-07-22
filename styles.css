@@ -1,3 +1,10 @@
-p{
+p.error{
   color: red;
+}
+p.success{
+  color: #25c525;
+}
+
+p.success.feedback{
+  border: 1px dashed #25c525;
 }
