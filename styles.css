@@ -1,4 +1,4 @@
-p.error{
+/* p.error{
   color: red;
 }
 p.success{
@@ -7,4 +7,29 @@ p.success{
 
 p.success.feedback{
   border: 1px dashed #25c525;
+}
+
+#content{
+  background-color: #ebebeb;
+  padding: 20px;
+} */
+
+/* div .error{
+  color:red;
+} */
+
+/* any anchor tag with a href that includes "thenetninja" */
+a[href*="thenetninja"]{
+  background-color:rgb(67, 192, 67);
+  color:white;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* any anchor tag with a href that ends in ".com" style this way */
+a[href$=".com"]{
+  color:white;
+  background-color:red;
+  border: 2px solid blue;
 }
