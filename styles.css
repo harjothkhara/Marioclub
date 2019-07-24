@@ -1,5 +1,23 @@
 header{
-
+background-color: #F63232;
+padding: 20px;
+text-align: center;
+position: fixed;
+width: 100%;
+/* pushes the content forward. by default this is 0 */
+z-index: 1;
+/* 0 from the top of the page. hugs the top of the page so no white spaces show */
+top:0;
+/* 0 from the left of the page. hugs the left of the page so no white spaces show */
+left:0;
+}
+header h1{
+  color: white;
+  border: 8px solid white;
+ /* TRBL Top/Bottom Right/Left */
+  padding: 6px 12px;
+  display: inline-block;
+  border-radius: 36px;
 }
 .banner{
   position: relative;
