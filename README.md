@@ -11,3 +11,4 @@ The Net Ninja HTML & CSS Crash Course
 * Chrome Dev Tools
 * CSS Layout & Position
 * CSS Pseudo Classes & Elements
+* Intro to Media Queries
