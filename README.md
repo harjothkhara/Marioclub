@@ -12,4 +12,5 @@ The Net Ninja HTML & CSS Crash Course
 * CSS Layout & Position
 * CSS Pseudo Classes & Elements
 * Intro to Media Queries
-* Next Steps
+* Next Steps: CSS Animation tutorial -> CSS Flexbox tutorial -> Styling a HTML5 Form -> CSS Grid
+  Tutorial -> JavaScript
