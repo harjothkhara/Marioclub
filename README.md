@@ -12,3 +12,4 @@ The Net Ninja HTML & CSS Crash Course
 * CSS Layout & Position
 * CSS Pseudo Classes & Elements
 * Intro to Media Queries
+* Next Steps
